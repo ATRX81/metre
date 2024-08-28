@@ -25,5 +25,5 @@ qm - L1  | 32                         f | 34,359,738,368                        
 L = Layer, f = files, b = bytes
 ```
 ```
-0-11 BZip, 12 LZMA, made with Nanazip.
+0-12 BZip, 13 LZMA, made with Nanazip.
 ```
