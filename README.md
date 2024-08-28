@@ -1,9 +1,13 @@
+<div align="center">
+  
 # Zip of The Internet
 Metre Zip Bomb - Z.zip
 <br>
-This is my little zip bomb, that decompresses to `~39.61 RB` `(39,614 YB)`, `39,614,081,257,132,168,797` GB... insane.
+This is my little zip bomb, that decompresses from 
 <br>
-## 13 layers (or 12 idk im stupid)
+`~9,68 MB` to `~39,61 RB` or `~39,614 YB` or `~39,614,081,257,132,168,797 GB`... insane.
+<br>
+##
 ```
 Z  - Layer 13 36,893,488,147,419,103,232 files total | 39,614,081,257,132,168,796,771,975,168 bytes (39.61 RB)
 dm - Layer 12 1,152,921,504,606,846,976 files total  | 1,237,940,039,285,380,274,899,124,224 bytes  (1.24  RB)
