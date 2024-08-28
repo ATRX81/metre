@@ -1,11 +1,11 @@
 <div align="center">
   
 # Zip of The Internet
-Metre Zip Bomb - z.zip
-<br>
-This is my little zip bomb, that decompresses from `~9,68 MB` to
-<br>
-`~39,61 RB` or `~39,614 YB` or `~39,614,081,257,132,168,797 GB`... insane.
+Metre Zip Bomb - z.zip<br>
+This is my little zip bomb, that decompresses from `~9,68 MB` to<br>
+`~39,61 RB`/`~39,614 YB` or<br>
+`~39,614,081,257,132,168,797 GB` or<br>
+`39,614,081,257,132,168,796,771,975,168 bytes`... insane.
 ##
 ```
 Z  - L13 | 36,893,488,147,419,103,232 f | 39,614,081,257,132,168,796,771,975,168 b | 39.61 RB
