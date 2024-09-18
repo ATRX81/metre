@@ -21,7 +21,7 @@ ym - L3  | 32,768                     f | 35,184,372,088,832                  
 rm - L2  | 1,024                      f | 1,099,511,627,776                      b | 1.1   TB
 qm - L1  | 32                         f | 34,359,738,368                         b | 34.36 GB
 
-L = Layer, f = files, b = bytes
+L = Layer, f = files, b = size
 ```
 ```
 0-12 BZip, 13 LZMA, made with Nanazip. 316,912,650,057,057,350,374,175,801,344 Bits
